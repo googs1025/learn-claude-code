@@ -1,4 +1,4 @@
-[English](./README.md) | [中文](./README-zh.md) | [日本語](./README-ja.md)  
+[English](./README.md) | [中文](./README-zh.md) | [日本語](./README-ja.md) | [项目功能详细说明](./PROJECT-OVERVIEW.md)  
 # Learn Claude Code -- A nano Claude Code-like agent, built from 0 to 1
 
 ```
